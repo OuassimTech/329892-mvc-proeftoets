@@ -6,4 +6,4 @@ foreach ($data['users'] as $user) {
 }
 */
 ?>
-HOME PAGE
+<a href="<?=URLROOT;?>fruits/index">Fruit</a>
